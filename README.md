@@ -4,6 +4,16 @@ Este es un ejemplo de la modificación del archivo para posteriormente subirlo c
 
 Este ejercicio se hizo el 17 de septiembre de 2025
 
+
 # Readme-edits-yahir
 En esta rama se realizaron los cambios correspondientes para entender
 y practicar el flujo de trabajo de GitHub.
+
+Readme-edit-Josh
+Adding some text to the Readme file to confirm the pull requests, push requests, and merge branches in this exercise.  - Josh
+
+Agregando más texto de prueba. Confirmación posterior de cambios.
+main
+
+En efecto, no le se :)
+
